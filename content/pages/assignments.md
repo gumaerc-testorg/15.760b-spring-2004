@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -144,7 +145,7 @@ Sport Obermeyer
 Case
 {{< tdclose >}}
 {{< tdopen >}}
-Graded case write-up due at the beginning of class ([PDF]({{< baseurl >}}/resources/case_writeup))
+Graded case write-up due at the beginning of class ({{% resource_link 31bc597b-0da4-d07f-e226-f67b169174f1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

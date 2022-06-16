@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section deals with managing a virtual factory in a web-based simulation
+  exercise by groups of students so thatthey can adapt and apply concepts learned
+  in the class in a managerial situation.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -112,11 +113,11 @@ Some of the criteria that we will use to judge effective class participation inc
 
 ### Case Write-Up and The Goal Book Review
 
-For more information about these assignments, please see the [assignments]({{< baseurl >}}/pages/assignments) page.
+For more information about these assignments, please see the {{% resource_link acc9960a-1f84-7e99-79fc-28a8c7aed24a "assignments" %}} page.
 
 ### Simulation Exercise
 
-For more information about this exercise, please see the [projects]({{< baseurl >}}/pages/projects) page.
+For more information about this exercise, please see the {{% resource_link 6a62d73d-afc0-3cea-a408-90cbc3ea7d27 "projects" %}} page.
 
 Miscellaneous
 -------------
