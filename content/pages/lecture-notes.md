@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 6f6f2355-ac56-0228-f798-a49604efa08b
 ---
@@ -30,7 +34,7 @@ EXERCISES
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction and Class Overview ([PDF]({{< baseurl >}}/resources/lec1_intro))
+Introduction and Class Overview ({{% resource_link 3b84a42b-cd72-bd70-e27e-490538cdfa1d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture
@@ -60,13 +64,13 @@ Case
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Capacity ([PDF]({{< baseurl >}}/resources/lec3_capacity))
+Capacity ({{% resource_link 16dde953-a29f-89a4-d201-8361900ce886 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture
 {{< tdclose >}}
 {{< tdopen >}}
-Buildup, Queueing ([PDF]({{< baseurl >}}/resources/lec3ex_capacity))
+Buildup, Queueing ({{% resource_link 4181ae89-8cdf-2e94-f1d1-37d09dfe522f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,15 +109,15 @@ Case
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Inventory ([PDF]({{< baseurl >}}/resources/lec6_invntry))  
+Inventory ({{% resource_link a6608e17-a8ec-8957-ab79-7240629d9d6a "PDF" %}})  
   
-Inventory Examples ([PDF]({{< baseurl >}}/resources/lec6_inv_ex))
+Inventory Examples ({{% resource_link 6d87c4fe-b476-f910-9fdf-14e69fa9ed74 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture
 {{< tdclose >}}
 {{< tdopen >}}
-EOQ, Newsboy ([PDF]({{< baseurl >}}/resources/lec6ex_inventory))
+EOQ, Newsboy ({{% resource_link f0f04a82-5af2-d8bb-88a0-80315b793a33 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -152,7 +156,7 @@ Case
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Production Control ([PDF]({{< baseurl >}}/resources/lec9_prod_cntl))
+Production Control ({{% resource_link d355753b-5fe4-f053-20c3-ebaffc3d4703 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture
@@ -197,13 +201,13 @@ Book
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Quality ([PDF]({{< baseurl >}}/resources/lec12_quality))
+Quality ({{% resource_link 336e3641-cc83-90f6-2767-41250da25ecb "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture
 {{< tdclose >}}
 {{< tdopen >}}
-SPC reading, Six Sigma ([PDF]({{< baseurl >}}/resources/lec12ex_quality))
+SPC reading, Six Sigma ({{% resource_link 853d1188-a47b-6a91-c5d6-0144d9c7df9e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -257,7 +261,7 @@ Case
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Supply Chain Design ([PDF]({{< baseurl >}}/resources/lec16_fine)) (Presentation courtesy of Prof. Charles Fine. Used with permission.)
+Supply Chain Design ({{% resource_link 3343aafe-0ce5-82d3-3dc8-ea58d0bc7486 "PDF" %}}) (Presentation courtesy of Prof. Charles Fine. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture
@@ -302,7 +306,7 @@ Case
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Simulation and Course Wrap-up ([PDF]({{< baseurl >}}/resources/lec19_wrap_up))
+Simulation and Course Wrap-up ({{% resource_link 98bbb8e2-ce62-e6d3-70ef-23ff1dc33c19 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture
