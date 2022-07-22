@@ -5,6 +5,7 @@ file: /courses/15-760b-introduction-to-operations-management-spring-2004/853d118
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec12ex_quality.pdf
 uid: 853d1188-a47b-6a91-c5d6-0144d9c7df9e
 ---
 Exercise problems in support of Lecture 12.
-

@@ -5,6 +5,7 @@ file: /courses/15-760b-introduction-to-operations-management-spring-2004/a6608e1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec6_invntry.pdf
 uid: a6608e17-a8ec-8957-ab79-7240629d9d6a
 ---
 Slides for presentation of Lecture 6.
-

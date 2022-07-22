@@ -5,6 +5,7 @@ file: /courses/15-760b-introduction-to-operations-management-spring-2004/b0b5225
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec9ex_prod.pdf
 uid: b0b52259-9e13-10cb-b08c-f8a08eeda13b
 ---
 This lecture notes gives an exercise on Production Control lecture.
-

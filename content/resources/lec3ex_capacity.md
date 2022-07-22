@@ -5,6 +5,7 @@ file: /courses/15-760b-introduction-to-operations-management-spring-2004/4181ae8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec3ex_capacity.pdf
 uid: 4181ae89-8cdf-2e94-f1d1-37d09dfe522f
 ---
 Exercise problems in support of Lecture 3.
-
