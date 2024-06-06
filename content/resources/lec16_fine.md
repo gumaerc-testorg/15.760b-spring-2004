@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Slides for lecture presentation. Guest lecturer: Professor Charles Fine.'
 file: /courses/15-760b-introduction-to-operations-management-spring-2004/3343aafe0ce582d33dc8ea58d0bc7486_lec16_fine.pdf
+file_size: 521532
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

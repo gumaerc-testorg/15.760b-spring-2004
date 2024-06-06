@@ -7,6 +7,7 @@ description: This handout contains an overview of the simulation assignment. Tea
   their own decision models and test their relevance and effectiveness. After the
   simulation is over, each team will turn in a written report of at most four pages.
 file: /courses/15-760b-introduction-to-operations-management-spring-2004/6657e4cd674d25ceaa1b9eadbbe06313_littlefield_sim.pdf
+file_size: 95817
 file_type: application/pdf
 learning_resource_types:
 - Projects
