@@ -2,6 +2,7 @@
 content_type: resource
 description: Exercise problems in support of Lecture 3.
 file: /courses/15-760b-introduction-to-operations-management-spring-2004/4181ae898cdf2e94f1d137d09dfe522f_lec3ex_capacity.pdf
+file_size: 227798
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
