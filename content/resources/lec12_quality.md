@@ -2,6 +2,7 @@
 content_type: resource
 description: Slides for presentation of Lecture 12.
 file: /courses/15-760b-introduction-to-operations-management-spring-2004/336e3641cc8390f6276741250da25ecb_lec12_quality.pdf
+file_size: 276670
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
