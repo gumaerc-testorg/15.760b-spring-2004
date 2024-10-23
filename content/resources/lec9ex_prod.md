@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This lecture notes gives an exercise on Production Control lecture.
-file: /courses/15-760b-introduction-to-operations-management-spring-2004/b0b522599e1310cbb08cf8a08eeda13b_lec9ex_prod.pdf
+file: /ol-ocw-studio-app/courses/15-760b-introduction-to-operations-management-spring-2004/b0b522599e1310cbb08cf8a08eeda13b_lec9ex_prod.pdf
 file_size: 210844
 file_type: application/pdf
 learning_resource_types:
