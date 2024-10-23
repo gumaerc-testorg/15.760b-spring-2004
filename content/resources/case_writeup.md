@@ -2,7 +2,7 @@
 content_type: resource
 description: This handout contains guidelines and instructions for the case study
   assignment.
-file: /courses/15-760b-introduction-to-operations-management-spring-2004/31bc597b0da4d07fe226f67b169174f1_case_writeup.pdf
+file: /ol-ocw-studio-app/courses/15-760b-introduction-to-operations-management-spring-2004/31bc597b0da4d07fe226f67b169174f1_case_writeup.pdf
 file_size: 12906
 file_type: application/pdf
 learning_resource_types:

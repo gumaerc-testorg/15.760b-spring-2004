@@ -6,7 +6,7 @@ description: Guidelines and instructions for simulation assignment. Teams of thr
   the class in a managerial situation; it will also give them a chance to formalize
   their own decision models and test their relevance and effectiveness. After the
   simulation is over, each team will turn in a written report of at most four pages.
-file: /courses/15-760b-introduction-to-operations-management-spring-2004/28e352ff66b27d9a5a48e7bd00c4fcb4_litlefild_prject.pdf
+file: /ol-ocw-studio-app/courses/15-760b-introduction-to-operations-management-spring-2004/28e352ff66b27d9a5a48e7bd00c4fcb4_litlefild_prject.pdf
 file_size: 32811
 file_type: application/pdf
 learning_resource_types:
