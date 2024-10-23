@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slides for the presentation of Lecture 3.
-file: /courses/15-760b-introduction-to-operations-management-spring-2004/16dde953a29f89a4d2018361900ce886_lec3_capacity.pdf
+file: /ol-ocw-studio-app/courses/15-760b-introduction-to-operations-management-spring-2004/16dde953a29f89a4d2018361900ce886_lec3_capacity.pdf
 file_size: 493213
 file_type: application/pdf
 learning_resource_types:
