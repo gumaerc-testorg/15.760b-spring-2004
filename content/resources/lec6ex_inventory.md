@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Exercise problems in support of Lecture 6.
-file: /courses/15-760b-introduction-to-operations-management-spring-2004/f0f04a825af2d8bb88a080315b793a33_lec6ex_inventory.pdf
+file: /ol-ocw-studio-app/courses/15-760b-introduction-to-operations-management-spring-2004/f0f04a825af2d8bb88a080315b793a33_lec6ex_inventory.pdf
 file_size: 194101
 file_type: application/pdf
 learning_resource_types:
