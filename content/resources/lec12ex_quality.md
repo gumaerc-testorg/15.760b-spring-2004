@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Exercise problems in support of Lecture 12.
-file: /courses/15-760b-introduction-to-operations-management-spring-2004/853d1188a47b6a91c5d60144d9c7df9e_lec12ex_quality.pdf
+file: /ol-ocw-studio-app/courses/15-760b-introduction-to-operations-management-spring-2004/853d1188a47b6a91c5d60144d9c7df9e_lec12ex_quality.pdf
 file_size: 175887
 file_type: application/pdf
 learning_resource_types:
